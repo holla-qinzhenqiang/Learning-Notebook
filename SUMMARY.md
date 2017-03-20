@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Virtual Rat](first-question.md)
-* Python
+* [Python](python.md)
 * [Cheminformatics](cheminformatics.md)
 * [Web](web.md)
 
