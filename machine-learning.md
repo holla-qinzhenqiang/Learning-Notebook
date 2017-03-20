@@ -33,5 +33,11 @@
 
   * 少數中文資源，但內容很少
 
+* [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
+
+  * Youtube video series
+
+  * The Jupyter notebooks used can be found [here](https://github.com/justmarkham/scikit-learn-videos)
+
 
 
