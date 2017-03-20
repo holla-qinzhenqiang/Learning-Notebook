@@ -29,5 +29,9 @@
 
   * Only support python2
 
+* [機器學習：使用Python](https://machine-learning-python.kspax.io/)
+
+  * 少數中文資源，但內容很少
+
 
 
