@@ -17,5 +17,17 @@
 
   * Tutorial @ EuroScipy 2016
 
+# Scikit-Learn
+
+* [Scikit-Learn tutorial material for Scipy 2015](https://github.com/amueller/scipy_2015_sklearn_tutorial)
+
+* [Some sample IPython notebooks for scikit-learn](https://github.com/ogrisel/notebooks)
+
+* [Scikit-feature](https://github.com/jundongl/scikit-feature)
+
+  * open-source feature selection repository in python
+
+  * Only support python2
+
 
 
