@@ -6,4 +6,5 @@
 * [Cheminformatics](cheminformatics.md)
 * [Virtual Rat](virtual-rat.md)
 * [Web](web.md)
+* [Shell script](shell-script.md)
 
