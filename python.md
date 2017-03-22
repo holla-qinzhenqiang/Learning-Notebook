@@ -2,7 +2,7 @@
 
 ## **FAQ**
 
-* [How do I check whether a file exists using Python?  ](http://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-using-python)
+* [How do I check whether a file exists using Python?](http://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-using-python)
 
 
 
