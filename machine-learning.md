@@ -1,6 +1,9 @@
 ## TensorFlow
 
 * [Tensorflow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
+* [Stanford CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
+  * With step-by-step tutorial for learning tensorflow
+  * Also with github repo: [here](https://github.com/chiphuyen/tf-stanford-tutorials)
 * [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
   * Simple tutorials using Google's TensorFlow Framework
 * [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
