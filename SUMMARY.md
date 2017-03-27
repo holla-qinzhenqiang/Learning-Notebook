@@ -8,4 +8,5 @@
 * [Web](web.md)
 * [Shell script](shell-script.md)
 * [Data Science](data-science.md)
+* [Git](git.md)
 
