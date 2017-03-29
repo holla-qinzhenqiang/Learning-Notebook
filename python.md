@@ -13,6 +13,7 @@
   * Universal line break
 * [What is the purpose of self?](http://stackoverflow.com/questions/2709821/what-is-the-purpose-of-self)
 * [How can I print all arguments passed to a python script?](/How can I print all arguments passed to a python script?  Ask)
+* [Delete an item from a dictionary](http://stackoverflow.com/questions/5844672/delete-an-item-from-a-dictionary)
 
 
 
