@@ -12,4 +12,5 @@
 * [Algorithms and Data Structures](algorithms-and-data-structures.md)
 * [Information Retrival](information-retrival.md)
 * [Research](research.md)
+* [Application](application.md)
 
