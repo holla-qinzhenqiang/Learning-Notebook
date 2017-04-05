@@ -1,3 +1,9 @@
+## Theory
+
+* [An Introduction to Variable and Feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
+
+## 
+
 ## TensorFlow
 
 * [Tensorflow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
