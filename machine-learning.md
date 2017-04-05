@@ -1,6 +1,8 @@
 ## Theory
 
 * [An Introduction to Variable and Feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
+* Many feature selection algorithms: http://featureselection.asu.edu/algorithms.php
+  * From [scikit-feature](https://github.com/jundongl/scikit-feature)
 
 ## 
 
