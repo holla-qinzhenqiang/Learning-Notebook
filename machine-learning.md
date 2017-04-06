@@ -1,7 +1,7 @@
 ## Theory
 
 * [An Introduction to Variable and Feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
-* Many feature selection algorithms: http://featureselection.asu.edu/algorithms.php
+* Many feature selection algorithms: [http://featureselection.asu.edu/algorithms.php](http://featureselection.asu.edu/algorithms.php)
   * From [scikit-feature](https://github.com/jundongl/scikit-feature)
 
 ## 
@@ -49,6 +49,13 @@
   * Youtube video series
 
   * The Jupyter notebooks used can be found [here](https://github.com/justmarkham/scikit-learn-videos)
+
+
+
+## Combination of multiple libraries
+
+* [Machine Learning Notebooks](https://github.com/ageron/handson-ml)
+  * A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 
 
 
