@@ -50,8 +50,6 @@
 
   * The Jupyter notebooks used can be found [here](https://github.com/justmarkham/scikit-learn-videos)
 
-
-
 ## Combination of multiple libraries
 
 * [Machine Learning Notebooks](https://github.com/ageron/handson-ml)
