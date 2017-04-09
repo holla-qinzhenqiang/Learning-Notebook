@@ -1,3 +1,5 @@
+## 
+
 ## Theory
 
 * [An Introduction to Variable and Feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
@@ -5,7 +7,9 @@
   * From [scikit-feature](https://github.com/jundongl/scikit-feature)
 * [AI從頭學](http://hemingwang.blogspot.tw/2016/12/ai_20.html)
 
-## 
+## Hardware
+
+* [Which GPU\(s\) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](/Which GPU%28s%29 to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning)
 
 ## TensorFlow
 
